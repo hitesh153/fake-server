@@ -1,0 +1,19 @@
+{
+  "posts": [
+    { "id":"1","firstname": "Allen" ,"lastname":"Saunders", "email":"allen.saunders@nielsen.com", "access":"Viewer"},
+    { "id":"2","firstname": "Anthony" ,"lastname":"Logan", "email":"anthony.logan@nielsen.com", "access":"Viewer"},
+    { "id":"3","firstname": "Belle" ,"lastname":"Black", "email":"belle.black@nielsen.com", "access":"Viewer"},
+    { "id":"4","firstname": "Callie" ,"lastname":"Myers", "email":"callie.myers@nielsen.com", "access":"Viewer"},
+    { "id":"5","firstname": "Christine" ,"lastname":"Sandoval", "email":"christine.sandoval@nielsen.com", "access":"Viewer"},
+    { "id":"6","firstname": "Leila" ,"lastname":"Todd", "email":"leila.todd@nielsen.com", "access":"Viewer"},
+    { "id":"7","firstname": "Micheal" ,"lastname":"Armstrong", "email":"micheal.armstrong@nielsen.com", "access":"Viewer"},
+    { "id":"8","firstname": "Nellie" ,"lastname":"Young", "email":"nellie.young@nielsen.com", "access":"Viewer"},
+    { "id":"9","firstname": "Polly" ,"lastname":"Powers", "email":"polly.powers@nielsen.com", "access":"Viewer"},
+    { "id":"10","firstname": "Sean" ,"lastname":"Hansen", "email":"sean.hansen@nielsen.com", "access":"Viewer"},
+    { "id":"11","firstname": "Scott" ,"lastname":"Holland", "email":"scott.holland@nielsen.com", "access":"Viewer"},
+    { "id":"12","firstname": "Violet" ,"lastname":"Owen", "email":"violet.owen@nielsen.com", "access": "Viewer"}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
